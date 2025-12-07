@@ -74,6 +74,6 @@ Feel free to contribute by:
 Submit a pull request if you'd like to collaborate.
 
 **Google Sheets**
-[Click Here]([url](https://docs.google.com/spreadsheets/d/1x2bOUlXRAEvKZSm5aDHx5pSlRabPL2LXWN6Xymo1Bsc/edit?usp=sharing))
+[Click Here]([https://docs.google.com/spreadsheets/d/1x2bOUlXRAEvKZSm5aDHx5pSlRabPL2LXWN6Xymo1Bsc/edit?usp=sharing])
 
 ---
